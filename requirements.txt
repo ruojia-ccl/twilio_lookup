@@ -1,0 +1,7 @@
+aiohttp
+pandas
+pyarrow
+python-dotenv
+requests
+snowflake-connector-python[pandas]
+tqdm
